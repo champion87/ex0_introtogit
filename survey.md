@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: dark blue
+Favorite food: Hummus
+Favorite musician/band: Queen
+Favorite movie: Forest Gump
+Requested grade in the course: 95
